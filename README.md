@@ -10,6 +10,7 @@
 | 6 | SymPy : calcul symbolique | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aelkharrim/FDM5-3P/blob/main/notebooks/06_sympy.ipynb) |
 | 7 | pandas : tableaux de données | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aelkharrim/FDM5-3P/blob/main/notebooks/07_pandas.ipynb) |
 | 8 | Incertitudes de mesure et ajustements | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aelkharrim/FDM5-3P/blob/main/notebooks/08_incertitudes.ipynb) |
+Sample | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aelkharrim/FDM5-3P/blob/main/notebooks/sample.ipynb) |
 
 ## Utilisation
 Cliquez sur « Open in Colab », puis **Fichier → Enregistrer une copie dans Drive** pour garder vos modifications.
