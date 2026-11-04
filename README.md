@@ -2,6 +2,7 @@
 
 | # | Carnet | Contenu |
 |---|--------|---------|
+| 0 | Environnement | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aelkharrim/FDM5-3P/blob/main/notebooks/00_Environnement.ipynb) |
 | 1 | Le langage Python | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aelkharrim/FDM5-3P/blob/main/notebooks/01_python_bases.ipynb) |
 | 2 | Structures de contrôle, fonctions, modules, exceptions | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aelkharrim/FDM5-3P/blob/main/notebooks/02_python_structures_fonctions.ipynb) |
 | 3 | NumPy : tableaux et calcul numérique | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aelkharrim/FDM5-3P/blob/main/notebooks/03_numpy.ipynb) |
